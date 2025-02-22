@@ -142,6 +142,7 @@ nav:
           - swiftui/getting-started/swiftui-text.md
       - Continued Learning:
           - swiftui/continued-learning/how-to-add-custom-fonts-in-swiftui.md
+          - swiftui/continued-learning/swiftui-animations.md
   - Linux:
       - linux/index.md
       - Guides:
