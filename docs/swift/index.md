@@ -5,5 +5,6 @@ Swift is a general-purpose programming language developed by Apple Inc. for iOS,
 <div class="grid cards" markdown>
 
 - [:material-file-document-plus: Extensions in Swift](continued-learning/extensions-in-swift.md)
+- [:material-code-array: How to get a sublist from a list in Swift](continued-learning/how-to-get-a-sublist-from-a-list-in-swift.md)
 
 </div>

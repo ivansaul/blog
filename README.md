@@ -34,6 +34,7 @@ This repository is a growing collection of practical examples and tutorials for 
 
 - **Continued Learning**
   - [Extensions in Swift](https://ivansaul.github.io/blog/swift/continued-learning/extensions-in-swift)
+  - [How to get a sublist from a list in Swift](https://ivansaul.github.io/blog/swift/continued-learning/how-to-get-a-sublist-from-a-list-in-swift)
 
 ### SwiftUI
 
