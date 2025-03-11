@@ -136,6 +136,7 @@ nav:
       - swift/index.md
       - Continued Learning:
           - swift/continued-learning/extensions-in-swift.md
+          - swift/continued-learning/how-to-get-a-sublist-from-a-list-in-swift.md
   - SwiftUI:
       - swiftui/index.md
       - Getting Started:
