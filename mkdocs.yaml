@@ -145,6 +145,7 @@ nav:
   - Swift:
       - swift/index.md
       - Continued Learning:
+          - swift/continued-learning/how-to-sort-arrays-in-swift.md
           - swift/continued-learning/extensions-in-swift.md
           - swift/continued-learning/how-to-get-a-sublist-from-a-list-in-swift.md
   - SwiftUI:
