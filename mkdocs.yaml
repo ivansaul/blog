@@ -33,6 +33,10 @@ theme:
     repo: fontawesome/brands/git-alt
     edit: material/file-document-edit-outline
     view: material/file-document-arrow-right-outline
+    tag:
+      swift: material/language-swift
+      swiftui: fontawesome/brands/swift
+      default: material/tag-text
   font:
     text: Roboto
     code: Roboto Mono
@@ -80,6 +84,7 @@ markdown_extensions:
 #                                Mkdocs Plugins                                     #
 #===================================================================================#
 plugins:
+  - tags
   - search
   - social:
       enabled: !ENV [CI, false]
@@ -126,6 +131,9 @@ extra:
           data: 0
           note: >-
             Thanks for your feedback!
+  tags:
+    Swift: swift
+    SwiftUI: swiftui
 
 extra_css:
   - assets/stylesheets/extras.css
