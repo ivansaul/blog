@@ -36,6 +36,9 @@ theme:
     tag:
       swift: material/language-swift
       swiftui: fontawesome/brands/swift
+      xcode: simple/xcode
+      telegram: fontawesome/brands/telegram
+      linux: fontawesome/brands/linux
       default: material/tag-text
   font:
     text: Roboto
@@ -134,6 +137,9 @@ extra:
   tags:
     Swift: swift
     SwiftUI: swiftui
+    Xcode: xcode
+    Telegram: telegram
+    Linux: linux
 
 extra_css:
   - assets/stylesheets/extras.css
