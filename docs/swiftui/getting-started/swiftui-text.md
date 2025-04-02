@@ -3,6 +3,11 @@ comments: true
 icon: fontawesome/solid/text-height
 title: SwiftUI Text
 description: Text views are one of the most fundamental and frequently used components in any SwiftUI user interface. They enable us to display text in our apps, serving as labels, titles, descriptions, and much more.
+
+date: 2024-12-02
+image: assets/images/swiftui-text-banner.avif
+tags:
+  - SwiftUI
 ---
 
 # SwiftUI Text

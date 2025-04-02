@@ -3,6 +3,11 @@ comments: true
 icon: material/format-font
 title: How to Add Custom Fonts in SwiftUI
 description: Transform the look of your SwiftUI app by adding custom fonts! This step-by-step guide will show you how to easily integrate and use your favorite fonts, giving your app a unique and stylish edge.
+
+date: 2024-11-30
+image: assets/images/swiftui-how-to-add-custom-fonts-in-swiftui-banner.avif
+tags:
+  - SwiftUI
 ---
 
 # How to Add Custom Fonts in SwiftUI

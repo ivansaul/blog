@@ -3,6 +3,12 @@ comments: true
 icon: material/code-array
 title: How to get a sublist from a list in Swift
 description: Learn how to extract sublists from arrays in Swift using various methods, including slicing, prefix, suffix, drop, filter, and stride. Avoid common pitfalls and ensure safe sublist extraction.
+
+date: 2025-03-11
+image: assets/images/swift-how-to-get-a-sublist-from-a-list-in-swift-banner.avif
+tags:
+  - Swift
+  - Array
 ---
 
 Working with lists (or arrays) in Swift is something we do all the time. Sometimes, we just need a portion of an array (a sublist) without modifying the original data. In this post, we'll explore different ways to extract sublists in Swift, using simple and practical approaches.

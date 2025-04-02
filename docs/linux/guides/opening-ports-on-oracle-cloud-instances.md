@@ -3,6 +3,12 @@ comments: true
 icon: material/server-network
 title: Opening Ports on Oracle Cloud Instances
 description: Learn how to open ports on an Oracle Cloud Instance to allow incoming traffic on specific ports.
+
+date: 2024-11-30
+image: assets/images/open-ports-on-oracle-cloud-banner.avif
+tags:
+  - Linux
+  - Oracle
 ---
 
 # Opening Ports on Oracle Cloud Instances

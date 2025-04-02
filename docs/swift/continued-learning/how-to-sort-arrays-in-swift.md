@@ -5,10 +5,10 @@ title: How to Sort Arrays in Swift
 description: Learn how to efficiently sort arrays in Swift using built-in methods like sorted() and sort(), custom closures, and the Comparable protocol.
 
 date: 2025-03-30
-image: https://picsum.photos/200
+image: assets/images/swift-how-to-sort-arrays-in-swift-banner.avif
 tags:
   - Swift
-  - Arrays
+  - Array
 ---
 
 # How to Sort Arrays in Swift

@@ -3,6 +3,12 @@ comments: true
 icon: material/animation
 title: SwiftUI Animations
 description: Discover the power of SwiftUI animations and learn how to create dynamic and engaging user interfaces.
+
+date: 2025-02-22
+image: assets/images/swiftui-animations-banner.avif
+tags:
+  - SwiftUI
+  - Animation
 ---
 
 # SwiftUI Animations
