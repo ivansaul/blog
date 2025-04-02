@@ -14,7 +14,7 @@ dotenv.load_dotenv()
 BATCH_SIZE = 10
 TINIFY_LOG = ".tinify.db"
 API_KEY = os.getenv("TINIFY_KEY")
-VALID_EXTENSIONS = {".png", ".jpg", ".jpeg", ".webp", ".avif"}
+VALID_EXTENSIONS = {".png", ".jpg", ".jpeg"}
 DOCS_DIR = "docs"
 
 
