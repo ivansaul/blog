@@ -3,6 +3,12 @@ comments: true
 icon: material/file-document-plus-outline
 title: Extensions in Swift
 description: Discover the power of Swift extensions to enhance existing types with new methods, properties, and initializers. Learn how to customize and expand your code effortlessly while keeping it clean and modular.
+
+date: 2024-11-30
+image: assets/images/swift-extensions-in-swift-banner.avif
+tags:
+  - Swift
+  - Extension
 ---
 
 # Extensions in Swift

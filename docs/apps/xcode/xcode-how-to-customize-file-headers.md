@@ -3,6 +3,13 @@ comments: true
 icon: material/xml
 title: Xcode How to Customize File Headers
 description: Default headers in Xcode are useful, but not always enough. Learn how to add personalized details like repository links, version numbers, or any other information you need.
+
+date: 2024-12-02
+image: assets/images/xcode-how-to-customize-file-headers-banner.avif
+tags:
+  - Xcode
+  - Swift
+  - SwiftUI
 ---
 
 # Xcode How to Customize File Headers
