@@ -1,7 +1,7 @@
 ---
 comments: true
 icon: material/server-network
-title: Opening Ports on Oracle Cloud Instances
+title: Open Ports on Oracle Cloud
 description: Learn how to open ports on an Oracle Cloud Instance to allow incoming traffic on specific ports.
 
 date: 2024-11-30
@@ -11,7 +11,7 @@ tags:
   - Oracle
 ---
 
-# Opening Ports on Oracle Cloud Instances
+# Open Ports on Oracle Cloud
 
 Oracle Cloud Infrastructure (OCI) provides a range of services that allow you to build, run, and manage applications in the cloud. One of the key services is the Oracle Cloud Instance, a virtual machine you can use to run your applications.
 
