@@ -6,6 +6,6 @@ In this section, we cover a variety of topics, from installation guides to troub
 
 <div class="grid cards" markdown>
 
-- [:material-server-network: Opening Ports on Oracle Cloud Instances](guides/opening-ports-on-oracle-cloud-instances.md)
+- [:material-server-network: Open Ports on Oracle Cloud](guides/open-ports-on-oracle-cloud.md)
 
 </div>

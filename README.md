@@ -48,7 +48,7 @@ This repository is a growing collection of practical examples and tutorials for 
 ### Linux
 
 - **Guides**
-  - [Opening Ports on Oracle Cloud Instances](https://ivansaul.github.io/blog/linux/guides/opening-ports-on-oracle-cloud-instances)
+  - [Open Ports on Oracle Cloud](https://ivansaul.github.io/blog/linux/guides/open-ports-on-oracle-cloud)
 
 ### Apps
 
